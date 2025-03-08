@@ -1,0 +1,27 @@
+So you prefer FPS games?
+
+Okay then, let's play Goat Simulater in first person view :p
+
+[b]FERATURES[/b]
+- FIRST PERSON CAMERA: You can see things through goat's eyes.
+
+[b]COMMANDS[/b]
+- [b][P]:[/b] Switch on/off first person view.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][RightPadClick]:[/b] Switch on/off first person view.
+
+[b]CHARACTERISTICS[/b]
+- Compatible with any goat form and size (that I know).
+- You can't use first person view on a vehicle.
+
+[b]KNOWN BUGS[/b]
+- When you are in first person view, other players see you transparent (I can't fix that).
+
+[b]FAQ[/b]
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read it[/url].
+
+[b]DEV NOTES[/b]
+[quote=About this mod]I made this mod after a request of The Gold Sword who wanted to be able to play Goat Sim as a FPS :) A comment of AlexDragon on the workshop page of the Resizable Goat mod helped me to figure out how I could make this kind of mod ^^
+To sum up, I modified the camera parameters so that the center of rotation is inside the head of the creature you control and I disabled zoom.
+[/quote]
